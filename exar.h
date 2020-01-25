@@ -48,7 +48,7 @@
  */
 
 #define XR_USB_SERIAL_TTY_MAJOR		266
-#define XR_USB_SERIAL_TTY_MINORS	32
+#define XR_USB_SERIAL_TTY_MINORS	128
 
 /*
  * Requests.
